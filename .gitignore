@@ -4,7 +4,7 @@
 .env
 /.serverless
 .env
-/db_migration
+# /db_migration
 
 # Logs
 logs
